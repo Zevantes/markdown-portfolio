@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Great PGO__
+_ML not so much_
+*__Big fan of my wife__*
