@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Plunder](https://octodex.github.com/images/mona-the-rivetertocat.png)
