@@ -1,0 +1,1 @@
+[GN](https://gn.com)
